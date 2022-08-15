@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Testing.iml" filepath="$PROJECT_DIR$/.idea/Java-Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Cucumber/junitproject.iml" filepath="$PROJECT_DIR$/4 - Cucumber/junitproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 - TDD Exercise/junitproject (1).iml" filepath="$PROJECT_DIR$/2 - TDD Exercise/junitproject (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 - Simple Example JUnit/junitproject (2).iml" filepath="$PROJECT_DIR$/1 - Simple Example JUnit/junitproject (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - Mockito and CleanCode - Exercise/junitproject (3).iml" filepath="$PROJECT_DIR$/3 - Mockito and CleanCode - Exercise/junitproject (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - Mockito and CleanCode - Resolved/junitproject (4).iml" filepath="$PROJECT_DIR$/3 - Mockito and CleanCode - Resolved/junitproject (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 - Pitest/pitest-examples.iml" filepath="$PROJECT_DIR$/5 - Pitest/pitest-examples.iml" />
+    </modules>
+  </component>
+</project>
